@@ -1,0 +1,53 @@
+Starter VPS sollutions
+
+The fundaments of the Starter platfom is based on the most recent stable releases of Debian Linux and is tooled with KVM.
+
+For Debian, Ubuntu, CentOS, Arch, Gentoo and Fedora images are available that can be. Installed automatically within minutes In addition, you can also perform an installation through ISO.
+
+A Starter sollution characterized by a competitive price, fast delivery and great value for money.
+
+During checkout you can choose the data center location that you prefer. The locations are not interdependent, internal traffic is free of charge.
+
+Guarantees and a large peak capacity important? Take a look at a VPS Pro.
+
+2 virtual CPU's
+1 Gbit network connection
+1 IPv4-address
+1 IPv6-address range
+basic RAID-10 storage
+Daily backups
+
+Debian GNU/linux 5.0/6.0/7.0
+Ubuntu 8.0 until 13.10
+CentOS 5.3 until 6.3
+Fedora 10 until 18
+Gentoo 2010 until 2013
+Arch Linux 2011/2012/2013
+
+
+
+Professional VPS hosting
+
+For your convenience, a number of standard packages are composed. If you wish to have some other packages, we like to make a suggestion.
+
+The basis of the Pro platform is the Citrix XenServer Suite with central iSCSI storage based on RAID 6.
+
+This platform has high availability, if a physical server goes offline, the corresponding VPS is moved to another physical server within seconds. The downtime is thus limited to a few seconds. Also maintenance often takes place without downtime thanks to the Live Migration.
+
+2 virtual Intel Xeon CPU's @ 2.13Ghz
+1 Gbit network connection
+2 IPv4-address
+1 IPv6-address range
+Central RAID-6 storage
+High Availability
+99,9% uptime guaranteed
+Daily backups
+
+Debian GNU/linux 5.0/6.0/7.0
+Ubuntu 8.0 until 13.10
+CentOS 5.3 until 6.3
+Fedora 10 until 18
+Gentoo 2010 until 2013
+Arch Linux 2011/2012/2013
+Windows Server 2003/2008/2012
+... Or any other OS
